@@ -1,0 +1,10 @@
+
+.inactive { 
+    display: none; 
+}
+.active { 
+    display: block;
+}
+.bg-gray{
+    background-color: rgba(72, 68, 68, 0.158);
+}
